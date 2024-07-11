@@ -35,3 +35,5 @@ store different types of PDF files to facilitate subsequent document content ide
   - Tables across the left and right sides.
   - tables standing up.
 
+- **11-scanned_pdf**:
+  - sanned pdf
